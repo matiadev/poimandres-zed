@@ -1,0 +1,80 @@
+{
+	"$schema": "https://zed.dev/schema/themes/v0.2.0.json",
+	"name": "Poimandres Light",
+	"author": "matiadev",
+	"themes": [
+		{
+			"name": "Poimandres Light",
+			"appearance": "light",
+			"style": {
+				"background": "#EDEDEDFF",
+				"surface.background": "#1B1E28FF",
+				"element.background": "#E3E3E3FF",
+				"text": "#474747FF",
+				"text.muted": "#666666FF",
+				"status_bar.background": "#EDEDEDFF",
+				"title_bar.background": "#EDEDEDFF",
+				"toolbar.background": "#EDEDEDFF",
+				"tab_bar.background": "#1B1E28FF",
+				"tab.active_background": "#EDEDED80",
+				"tab.inactive_background": "#EDEDEDFF",
+				"panel.background": "#EDEDEDFF",
+				"editor.background": "#EDEDEDFF",
+				"editor.gutter.background": "#EDEDEDFF",
+				"editor.subheader.background": "#F5F5F5FF",
+				"error": "#D0679DFF",
+				"error.background": "#D0679D20",
+				"hint": "#3F596EB3",
+				"info": "#47ACFFFF",
+				"info.background": "#ADD7FF3B",
+				"modified": "#1C9BFFFF",
+				"warning": "#94910AFF",
+				"warning.background": "#D0CE6720",
+				"terminal.background": "#EDEDEDFF",
+				"syntax": {
+					"attribute": {
+						"color": "#5E7A91FF"
+					},
+					"boolean": {
+						"color": "#00C798FF"
+					},
+					"comment": {
+						"color": "#666666B0"
+					},
+					"constant": {
+						"color": "#00C798FF"
+					},
+					"function": {
+						"color": "#219DFFFF"
+					},
+					"keyword": {
+						"color": "#424242FF"
+					},
+					"number": {
+						"color": "#00C798FF"
+					},
+					"property": {
+						"color": "#474747FF"
+					},
+					"string": {
+						"color": "#00CCA1FF"
+					},
+					"tag": {
+						"color": "#00CCA1FF"
+					},
+					"type": {
+						"color": "#707070FF"
+					},
+					"variable": {
+						"color": "#3F7199FF"
+					},
+					"variable.special": {
+						"color": "#4D6C8FFF"
+					}
+				},
+				"panel.overlay_hover": "#EDEDEDFF",
+				"version_control.modified": "#1C9BFFFF"
+			}
+		}
+	]
+}
