@@ -7,73 +7,73 @@
 			"name": "Poimandres Light",
 			"appearance": "light",
 			"style": {
-				"background": "#EDEDEDFF",
-				"surface.background": "#1B1E28FF",
-				"element.background": "#E3E3E3FF",
-				"text": "#474747FF",
-				"text.muted": "#666666FF",
-				"status_bar.background": "#EDEDEDFF",
-				"title_bar.background": "#EDEDEDFF",
-				"toolbar.background": "#EDEDEDFF",
-				"tab_bar.background": "#1B1E28FF",
-				"tab.active_background": "#EDEDED80",
-				"tab.inactive_background": "#EDEDEDFF",
-				"panel.background": "#EDEDEDFF",
-				"editor.background": "#EDEDEDFF",
-				"editor.gutter.background": "#EDEDEDFF",
-				"editor.subheader.background": "#F5F5F5FF",
-				"error": "#D0679DFF",
-				"error.background": "#D0679D20",
-				"hint": "#3F596EB3",
-				"info": "#47ACFFFF",
-				"info.background": "#ADD7FF3B",
-				"modified": "#1C9BFFFF",
-				"warning": "#94910AFF",
-				"warning.background": "#D0CE6720",
-				"terminal.background": "#EDEDEDFF",
+				"background": "#edededff",
+				"surface.background": "#1b1e28ff",
+				"element.background": "#e3e3e3ff",
+				"text": "#474747ff",
+				"text.muted": "#666666ff",
+				"status_bar.background": "#edededff",
+				"title_bar.background": "#edededff",
+				"toolbar.background": "#edededff",
+				"tab_bar.background": "#1b1e28ff",
+				"tab.active_background": "#ededed80",
+				"tab.inactive_background": "#edededff",
+				"panel.background": "#edededff",
+				"editor.background": "#edededff",
+				"editor.gutter.background": "#edededff",
+				"editor.subheader.background": "#f5f5f5ff",
+				"error": "#d0679dff",
+				"error.background": "#d0679d20",
+				"hint": "#3f596eb3",
+				"info": "#47acffff",
+				"info.background": "#add7ff3b",
+				"modified": "#1c9bffff",
+				"warning": "#94910aff",
+				"warning.background": "#d0ce6720",
+				"terminal.background": "#edededff",
 				"syntax": {
 					"attribute": {
-						"color": "#5E7A91FF"
+						"color": "#5e7a91ff"
 					},
 					"boolean": {
-						"color": "#00C798FF"
+						"color": "#00c798ff"
 					},
 					"comment": {
-						"color": "#666666B0"
+						"color": "#666666b0"
 					},
 					"constant": {
-						"color": "#00C798FF"
+						"color": "#00c798ff"
 					},
 					"function": {
-						"color": "#219DFFFF"
+						"color": "#219dffff"
 					},
 					"keyword": {
-						"color": "#424242FF"
+						"color": "#424242ff"
 					},
 					"number": {
-						"color": "#00C798FF"
+						"color": "#00c798ff"
 					},
 					"property": {
-						"color": "#474747FF"
+						"color": "#474747ff"
 					},
 					"string": {
-						"color": "#00CCA1FF"
+						"color": "#00cca1ff"
 					},
 					"tag": {
-						"color": "#00CCA1FF"
+						"color": "#00cca1ff"
 					},
 					"type": {
-						"color": "#707070FF"
+						"color": "#707070ff"
 					},
 					"variable": {
-						"color": "#3F7199FF"
+						"color": "#3f7199ff"
 					},
 					"variable.special": {
-						"color": "#4D6C8FFF"
+						"color": "#4d6c8fff"
 					}
 				},
-				"panel.overlay_hover": "#EDEDEDFF",
-				"version_control.modified": "#1C9BFFFF"
+				"panel.overlay_hover": "#edededff",
+				"version_control.modified": "#1c9bffff"
 			}
 		}
 	]
