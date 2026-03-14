@@ -1,7 +1,7 @@
 id = "poimandres-theme"
-name = "poimandres"
+name = "Poimandres"
 version = "0.0.1"
 schema_version = 1
 authors = ["matiadev <mattcroat.dev@gmail.com>"]
-description = "Poimandres themes"
+description = "🎨 Poimandres themes"
 repository = "https://github.com/matiadev/poimandres-zed"
