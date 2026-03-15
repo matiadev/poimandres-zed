@@ -24,6 +24,9 @@
 				"editor.line_number": "#a1a1a1ff",
 				"editor.active_line_number": "#474747ff",
 				"editor.gutter.background": "#e6e6e6ff",
+				"editor.document_highlight.read_background": "#0091ff15",
+				"editor.document_highlight.write_background": "#0091ff30",
+				"editor.document_highlight.bracket_background": "#47474710",
 				"editor.subheader.background": "#f5f5f5ff",
 				"error": "#d0679dff",
 				"error.background": "#d0679d20",
@@ -80,6 +83,7 @@
 					"attribute": {
 						"color": "#4e657aff"
 					},
+
 					"boolean": {
 						"color": "#00bf81ff"
 					},
