@@ -105,11 +105,17 @@
 					"property": {
 						"color": "#424242ff"
 					},
+					"punctuation.bracket": {
+						"color": "#424242FF"
+					},
 					"string": {
 						"color": "#00bf81ff"
 					},
 					"tag": {
 						"color": "#00bf81ff"
+					},
+					"tag.property": {
+						"color": "#4e657aff"
 					},
 					"type": {
 						"color": "#707070ff"

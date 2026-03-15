@@ -296,6 +296,9 @@
 					"tag": {
 						"color": "#00bf81ff"
 					},
+					"tag.property": {
+						"color": "#4e657aff"
+					},
 					"text.literal": {
 						"color": "#219dffff"
 					},
