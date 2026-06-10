@@ -23,6 +23,7 @@
 				"editor.background": "#e6e6e6ff",
 				"editor.line_number": "#a1a1a1ff",
 				"editor.active_line_number": "#474747ff",
+				"editor.active_line.background": "#0000000a",
 				"editor.gutter.background": "#e6e6e6ff",
 				"editor.document_highlight.read_background": "#0091ff15",
 				"editor.document_highlight.write_background": "#0091ff30",
@@ -85,7 +86,7 @@
 					},
 
 					"boolean": {
-						"color": "#00bf81ff"
+						"color": "#0091ffff"
 					},
 					"comment": {
 						"color": "#666666b0"
@@ -100,7 +101,7 @@
 						"color": "#424242ff"
 					},
 					"number": {
-						"color": "#00bf81ff"
+						"color": "#0091ffff"
 					},
 					"property": {
 						"color": "#424242ff"
@@ -109,10 +110,10 @@
 						"color": "#424242FF"
 					},
 					"string": {
-						"color": "#00bf81ff"
+						"color": "#0091ffff"
 					},
 					"tag": {
-						"color": "#00bf81ff"
+						"color": "#0091ffff"
 					},
 					"tag.property": {
 						"color": "#4e657aff"
